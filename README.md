@@ -5,13 +5,10 @@ Authors:
 Klára Jánová <xjanov10@stud.fit.vutbr.cz>
 Daniel Hladík <xhladi21@stud.fit.vutbr.cz>
 
+Implementation of Othello / Reversi game.
 
-Basic description:
-Implementation of Othello.
-
-http://www.fit.vutbr.cz/study/courses/ICP/public/ICP-PRJ-zadani.html
-https://cs.wikipedia.org/wiki/Othello_%28deskov%C3%A1_hra%29#Pravidla_hry
-
+Game info:
+https://en.wikipedia.org/wiki/Reversi
 
 Graphic game:
 - During the game, the following keys can be pressed to invoke a function.
@@ -24,9 +21,7 @@ Graphic game:
 
 
 Text game:
-- Follow only the instructions in the terminal.
+- Follow the instructions in the terminal.
 
 Libraries used:
 Qt 5.5.1
-
-Translated with DeepL.com (free version)
