@@ -1,9 +1,9 @@
 # Othello-Game
-Project for the course "C++ Seminar"
+Project for the class "C++ course"
 
 Authors:
-Daniel Hladík <xhladi21@stud.fit.vutbr.cz>
 Klára Jánová <xjanov10@stud.fit.vutbr.cz>
+Daniel Hladík <xhladi21@stud.fit.vutbr.cz>
 
 
 Basic description:
