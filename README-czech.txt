@@ -1,9 +1,9 @@
 Projekt do předmětu "Seminář C++"
 
 Autoři:
-Daniel Hladík	<xhladi21@stud.fit.vutbr.cz>
-Klára Jánová	<xjanov10@stud.fit.vutbr.cz>
 
+Klára Jánová	<xjanov10@stud.fit.vutbr.cz>
+Daniel Hladík	<xhladi21@stud.fit.vutbr.cz>
 
 Základní popis:
 Implementace hry Othello.
