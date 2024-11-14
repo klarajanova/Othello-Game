@@ -1,4 +1,4 @@
-# Othello-Game
+# Othello-Game (2016)
 Project for the class "C++ course"
 
 Authors:
